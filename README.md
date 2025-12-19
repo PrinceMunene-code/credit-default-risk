@@ -31,11 +31,7 @@ and better capture of non-linear risk patterns.
 ## Streamlit Application
 This project includes a Streamlit app for real-time credit default prediction.
 
-### Run Locally
-### Run Locally
-### Run Locally
-'''bash
+## Run Locally
+```bash
 pip install -r requirements.txt
 streamlit run app/app.py
-'''
-
